@@ -9,6 +9,5 @@ An iOS application created using third party API to get weather of current locat
 
 <img src="screenshots/screenshot1.png" width="350" height="600">
 
-**Fly to Animation:**
 
 <img src="screenshots/screenshot2.png" width="350" height="600">
